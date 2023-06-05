@@ -6,8 +6,8 @@ export default function Navbar() {
   return (
     <nav>
       <Link to="/">LISTE</Link>
-      <Link to="/">STATE</Link>
-      <Link to="/">SCROLL</Link>
+      <Link to="/StateAnim">STATE</Link>
+      <Link to="/Scroll">SCROLL</Link>
     </nav>
-  );
-}
+  )
+  }
