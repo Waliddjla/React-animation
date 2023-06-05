@@ -68,12 +68,3 @@ export default function StateAnim() {
     </form>
   );
 }
-
-{
-  /* <ul>
-    {inputData.map((item) => (
-        <li key={item.id}>{item.txt}</li>
-        
-    ))}
-    </ul> */
-}

@@ -21,3 +21,13 @@
 .cta-section label {
     margin: 10px 0 20px;
 }
+textarea {
+    width: 100%;
+    height: auto;
+    padding: 12px 20px;
+    background-color: #f8f8f8;
+    font-size: 20px;
+    border-radius: 4px;
+    resize: none;
+    
+}
